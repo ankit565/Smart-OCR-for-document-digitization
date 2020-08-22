@@ -1,0 +1,42 @@
+c 6 SMARTBRIDGE
+
+Lets Bridge the Gap
+
+Program Description:
+
+In this course, we will start with a theoretical understanding of simple Python, OpenCV,
+Computer Vision, neural nets and gradually move to Deep Neural Nets and
+Convolutional Neural Networks.
+
+Artificial Intelligence (Al) is that wave sweeping the technology world today. If you want
+to join this revolution but do not have the skills yet, this series of courses are right for
+you.
+
+In addition to the development of machine learning that leads to new capabilities, we
+have subsets within the domain of machine learning, each of which offers a potential
+area of specialization for those interested in a career in Al.
+
+e Neural Networks
+Neural networks are integral for teaching computers to think and learn by
+classifying information, similar to how we as humans learn. With neural networks,
+the software can learn to recognize images, for example. Machines can also
+make predictions and decisions with a high level of accuracy based on data
+inputs.
+
+e Natural Language Processing (NLP)
+Natural language processing gives machines the ability to understand human
+language. As this develops, machines will learn to respond in a way a human
+audience can understand. In the future, this will dramatically change how we
+interface with all computers.
+
+e Deep Learning
+Deep learning is at the cutting-edge of intelligent automation. It focuses on
+machine learning tools and deploying them to solve problems by making
+decisions. With deep learning, data is processed through neural networks,
+getting closer to how we think as humans. Deep learning can be applied to
+images, text, and speech to draw conclusions that mimic human decision
+making.
+
+We'll be exploring how to use Python and the OpenCV (Open Computer Vision) library
+to analyse images and video data.
+

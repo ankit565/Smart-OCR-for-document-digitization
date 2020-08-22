@@ -1,0 +1,146 @@
+c 6 SMARTBRIDGE
+
+Lets Bridge the Gap
+
+Program Description:
+
+In this course, we will start with a theoretical understanding of simple Python, OpenCV,
+Computer Vision, neural nets and gradually move to Deep Neural Nets and
+Convolutional Neural Networks.
+
+Artificial Intelligence (Al) is that wave sweeping the technology world today. If you want
+to join this revolution but do not have the skills yet, this series of courses are right for
+you.
+
+In addition to the development of machine learning that leads to new capabilities, we
+have subsets within the domain of machine learning, each of which offers a potential
+area of specialization for those interested in a career in Al.
+
+e Neural Networks
+Neural networks are integral for teaching computers to think and learn by
+classifying information, similar to how we as humans learn. With neural networks,
+the software can learn to recognize images, for example. Machines can also
+make predictions and decisions with a high level of accuracy based on data
+inputs.
+
+e Natural Language Processing (NLP)
+Natural language processing gives machines the ability to understand human
+language. As this develops, machines will learn to respond in a way a human
+audience can understand. In the future, this will dramatically change how we
+interface with all computers.
+
+e Deep Learning
+Deep learning is at the cutting-edge of intelligent automation. It focuses on
+machine learning tools and deploying them to solve problems by making
+decisions. With deep learning, data is processed through neural networks,
+getting closer to how we think as humans. Deep learning can be applied to
+images, text, and speech to draw conclusions that mimic human decision
+making.
+
+We'll be exploring how to use Python and the OpenCV (Open Computer Vision) library
+to analyse images and video data.
+c 6 SMARTBRIDGE
+
+Lets Bridge the Gap
+
+The most popular platforms in the world are generating never before seen amounts of
+image and video data. Now more than ever it’s necessary for developers to gain the
+necessary skills to work with image and video data using computer vision.
+
+Computer vision allows us to analyse and leverage image and video data, with
+applications in a variety of industries, Social Distancing, including self-driving cars,
+social network apps, medical diagnostics, and many more.
+
+As the fastest growing language in popularity, Python is well suited to leverage the
+power of existing computer vision libraries to learn from all this image and video data.
+
+We'll start the course by learning about numerical processing with the NumPy library
+and how to open and manipulate images with NumPy. Then will move on to using the
+OpenCV library to open and work with image basics. Then we'll start to understand how
+to process images and videos.
+
+Then we'll move on to understanding video basics with OpenCV, including working with
+streaming video from a webcam. Afterwards we'll learn about direct video topics, such
+as optical flow and object detection. Including face detection and object tracking.
+
+Then we'll move on to an entire section of the course devoted to the latest deep learning
+topics, including image recognition and custom image classifications. We'll even cover
+the latest deep learning networks, including the YOLO (you only look once) deep
+learning network, Fast R-CNN, Retina-NET, Mask R-CNN, Single Shot Detector.
+
+This course covers all this and more, including the following topics:
+
+NumPy
+
+Images with NumPy
+
+Image and Video Basics with NumPy
+Streaming video with OpenCV
+Object Detection
+
+Template Matching
+
+Corner, Edge, and Grid Detection
+Contour Detection
+
+Feature Matching
+
+Object Tracking
+
+Optical Flow
+
+Deep Learning with Keras
+
+Keras and Convolutional Networks
+Customized Deep Learning Networks
+State of the Art YOLO Networks and much more!
+Sy SMARTBRIDGE
+
+Who this course is for:
+These program is designed for Students/Faculty/Working Professionals. The only
+prerequisite for taking these courses is a basic understanding of Python or C++.
+
+Technology Requirements:
+
+Hardware
+
+PC: Windows 7 or higher with the latest updates installed.
+
+Mac: OS X 10.11 or higher with latest updates installed.
+
+Linux: Any recent distribution that has the supported browsers installed.
+Ubuntu: 17.10+ or 14.04 LTS+.
+
+Must have Install Permissions on Computer.
+
+WebCam if you want to learn the video streaming content
+
+Installations:
+
+Visual Studio: https://visualstudio.microsoft.com/downloads/
+Python: https://www.python.org/downloads/
+
+Anaconda: https://www.anaconda.com/downloads
+Notepad++: https://notepad-plus-plus.org/downloads/
+
+Python Packages:
+
+Numpy: https://numpy.org/install/
+
+Pandas: https://oandas.pydata.org/pandas-docs/stable/getting started/install.html
+Opencv-python (CV2): https://pypi.org/project/opencv-python/ OR
+https://docs.opencv.org/master/da/df6/tutorial py table of contents setup.html
+Imutils: https://pypi.org/project/imutils/
+
+Argparse: https://pypi.org/project/argparse/
+
+Dlib: https://pypi.org/project/dlib/ OR https://www.learnopencv.com/install-dlib-on-
+windows/
+
+Tensorflow: https://www.tensorflow.org/install OR
+https://www.tensorflow.org/install/pip
+
+Tensorflow GPU: https://www.tensorflow.org/install/gqou
+
+Keras: https://pypi.org/project/Keras/
+
